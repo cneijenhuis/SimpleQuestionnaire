@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">SampleQuestionnaire</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_lorem_ipsum">LoremIpsum</string>
+    <string name="cupcake_lorem_ipsum">Cheesecake brownie candy canes wypas tiramisu candy canes danish. Dessert icing sweet chocolate topping croissant chocolate bar powder. Faworki macaroon pudding tart marzipan sesame snaps bonbon. Dessert pastry faworki bonbon cupcake jujubes cheesecake.</string>
+    <string name="hipster_lorem_ipsum">Frado dubstep capitalism I delectus. Vegan reprehenderit gentrify sint street-art. Carles tassel chillwave pour-over beer DSLR. Sriracha voluptate authentic sriracha pour-over ethical sint DSLR.</string>
+	<string name="questionnaire_question">Please help us by answering a few questions!</string>
+</resources>
