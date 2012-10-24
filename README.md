@@ -20,6 +20,7 @@ Integrating into your app
 -------------------------
 
 Clone the contents of the library folder and add it as a library to your project.
+
 If you use eclipse, import the library as an existing project. Then right-click on your project -> Properties -> Android and add the imported project as a library.
 
 In your manifest, you have to add the Internet permission (if you haven't already), and declare the activity.
@@ -31,7 +32,9 @@ In your manifest, you have to add the Internet permission (if you haven't alread
 Declaring the theme is optional, but it'll make the questionnaire look nice among your other activities.
 
 You can now use the co.appeti.util.simplequestionnaire.Questionnaire class from other activities. Check the Java Docs, but usage is pretty simple, e.g.
+
     QuestionnaireActivity.openQuestionnaireIfUnanswered(this, "https://docs.google.com/spreadsheet/viewform?formkey=YOURFORM");
+
 opens the questionnaire only if the user hasn't answered it before.
 
 I have added a sample application in the sample-directory that shows how to open a questionnaire if the app is closed via the back-button. It also shows how to first ask the user whether he wants to answer the questionnaire at all.
