@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">Fragebogen</string>
-    <string name="laoding">Lade Fragebogen...</string>
+    <string name="simplequestionnaire_app_name">Fragebogen</string>
+    <string name="simplequestionnaire_loading">Lade Fragebogen...</string>
 </resources>

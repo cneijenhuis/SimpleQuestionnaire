@@ -140,7 +140,7 @@ public class Questionnaire extends Activity {
 	 */
 	protected void replaceCSS(WebView webView, String url) {
 		// Display something while the data loads asynchronously
-		webView.loadData("<html><body>" + getString(R.string.laoding) + "</body></html>", "text/html", null);
+		webView.loadData("<html><body>" + getString(R.string.simplequestionnaire_loading) + "</body></html>", "text/html", null);
 		
 		final String formUrl = url;
 		// Download the html asynchronously and replace the css

@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">Questionnaire</string>
-    <string name="laoding">Loading questionnaire...</string>
+    <string name="simplequestionnaire_app_name">Questionnaire</string>
+    <string name="simplequestionnaire_loading">Loading questionnaire...</string>
 </resources>
